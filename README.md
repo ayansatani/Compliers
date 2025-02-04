@@ -38,5 +38,22 @@ To download and set up the compiler, follow these steps:
 
 After a successful build, you will have an executable file (e.g., `compiler.exe`). To run the compiler, use the following command:
 
-```bash
-./compiler.exe p Input_Hello.inf
+1. Scanner
+
+  ```bash 
+  ./compiler.exe s Input_Hello.inf
+  ```
+
+2. Parser
+
+  ```bash 
+  ./compiler.exe p Input_Hello.inf
+  ```
+
+3.  Reader
+   ```bash 
+  ./compiler.exe p Input_Hello.inf
+   ```
+
+
+
